@@ -38,7 +38,7 @@ person-reid-project/
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/zoe141004/Person-reid.git
+    git clone https://github.com/zoe1410/Person-reid.git
     cd Person-reid
     ```
 
