@@ -38,8 +38,8 @@ person-reid-project/
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/zoe141004/dinosrep.git](https://github.com/zoe141004/dinosrep.git)
-    cd person-reid-project
+    git clone https://github.com/zoe1410/Person-reid.git
+    cd Person-reid
     ```
 
 2.  **Initialize Submodule:**
@@ -61,7 +61,7 @@ person-reid-project/
 4.  **Install Dependencies:**
     Make sure you have the correct CUDA version installed if using GPU. Install the required Python packages:
     ```bash
-    pip install --user -r requirements.txt
+    python -m pip install -r requirements.txt
     ```
     *Note:* The `requirements.txt` specifies PyTorch versions. If you encounter issues, ensure the installed PyTorch version matches your CUDA version. You might need to manually install a specific PyTorch build from their website.
 
